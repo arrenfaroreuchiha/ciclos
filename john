@@ -1,0 +1,4 @@
+cantidad = int(raw_input("cantidad:"))
+
+for i in range(cantidad):
+	numero = int(raw_input("numero:"))
